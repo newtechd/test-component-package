@@ -1,1 +1,1 @@
-console.log(`test component`);
+console.log(`test component1`);
