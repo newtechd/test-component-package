@@ -1,0 +1,19 @@
+{
+  "name": "test-component-package",
+  "version": "1.0.0",
+  "description": "test component package",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newtechd/test-component-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newtechd/test-component-package/issues"
+  },
+  "homepage": "https://github.com/newtechd/test-component-package#readme"
+}
